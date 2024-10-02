@@ -8,7 +8,7 @@ require('dotenv').config();
 const usuarios = require ('./router/usuariosRouter');
 const escuderia = require ('./router/escuderiaRouter');
 const Logger = require('bunyan');
-kg
+
 
 
 
