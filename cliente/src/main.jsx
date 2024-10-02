@@ -7,6 +7,8 @@ import '../styles/style2.css'
 import Login from '../pages/Login'
 import RutaPrivada from "./RutaPrivada";
 
+
+
 createRoot(document.getElementById('root')).render(
 <>
 
